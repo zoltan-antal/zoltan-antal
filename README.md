@@ -10,7 +10,10 @@
 
 ✉️ Email: [zoltan-antal@outlook.com](mailto:zoltan_antal@outlook.com)
 
-LinkedIn: [linkedin.com/in/zoltan-antal](https://linkedin.com/in/zoltan-antal)
+<p>
+  <picture><img src="/assets/images/linkedin.svg" alt="LinkedIn logo" height="15"></picture>
+  <span>LinkedIn: <a href="https://linkedin.com/in/zoltan-antal">linkedin.com/in/zoltan-antal</a></span>
+</p>
 
 ## My tech stack
 
