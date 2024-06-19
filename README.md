@@ -4,7 +4,7 @@
 
 ## About me
 
-🌐 Check out my portfolio website at: [zoltan&#8209;antal.dev](https://zoltan-antal.dev)
+🌐 Check out my personal portfolio website at: [zoltan&#8209;antal.dev](https://zoltan-antal.dev)
 
 ## Connect with me
 
