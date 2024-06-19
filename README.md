@@ -2,9 +2,9 @@
 
 💻 I'm a software developer specialising in full-stack web development, based in Berkshire, UK.
 
-## About me
+## Portfolio
 
-🌐 Check out my personal portfolio website at: [zoltan&#8209;antal.dev](https://zoltan-antal.dev)
+🌐 Check out my website at: [zoltan&#8209;antal.dev](https://zoltan-antal.dev)
 
 ## Connect with me
 
