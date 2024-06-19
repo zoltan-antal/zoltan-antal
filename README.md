@@ -2,10 +2,13 @@
 
 💻 I'm a software developer specialising in full-stack web development, based in Berkshire, UK.
 
+## About me
+
 🌐 Check out my portfolio website at: [zoltan&#8209;antal.dev](https://zoltan-antal.dev)
 
 ## Connect with me
-Email: [zoltan-antal@outlook.com](mailto:zoltan_antal@outlook.com)
+
+✉️ Email: [zoltan-antal@outlook.com](mailto:zoltan_antal@outlook.com)
 
 LinkedIn: [linkedin.com/in/zoltan-antal](https://linkedin.com/in/zoltan-antal)
 
