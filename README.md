@@ -1,6 +1,6 @@
-### Hi, I'm Zoltán 👋
+<h3 align="left">Hi, I'm Zoltán 👋</h3>
 
-💻 I'm a software developer specialising in full-stack web development, based in Berkshire, UK.
+<h4 align="left">🚀 Aerospace engineer by degree, software developer by passion 💻</h4>
 
 ## Portfolio
 
