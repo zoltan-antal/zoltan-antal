@@ -1,6 +1,7 @@
 <h3 align="left">Hi, I'm Zoltán 👋</h3>
 
 <h4 align="left">🚀 Aerospace engineer by degree, software developer by passion 💻</h4>
+<h4 align="left">Currently working as a Software Consultant at <a href=https://github.com/TNG>TNG Technology Consulting</a></h4>
 
 ## Portfolio
 
@@ -26,9 +27,7 @@
   <picture><img src="/assets/images/react.svg" alt="React logo" title="React" height="40"></picture>
   <picture><img src="/assets/images/mongodb.svg" alt="MongoDB logo" title="MongoDB" height="40"></picture>
   <picture><img src="/assets/images/sql.png" alt="SQL logo" title="SQL" height="40"></picture>
-  <picture><img src="/assets/images/postgresql.svg" alt="PostgreSQL logo" title="PostgreSQL" height="40"></picture>
   <picture><img src="/assets/images/html.svg" alt="HTML logo" title="HTML" height="40"></picture>
   <picture><img src="/assets/images/css.svg" alt="CSS logo" title="CSS" height="40"></picture>
   <picture><img src="/assets/images/git.svg" alt="Git logo" title="Git" height="40"></picture>
-  <picture><img src="/assets/images/linux.svg" alt="Linux logo" title="Linux" height="40"></picture>
 </div>
